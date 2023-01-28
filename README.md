@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning analysis of algoriths, AI and ML topics.
 - 👯 I’m looking to collaborate on deep learning and data science projects.
 - 🤔 I’m looking for help with Research Assistant positions in AI and ML.
-- 💬 Ask me about 
+- 💬 Ask me about USC, Optum and studying comp sci abroad.
 - 📫 How to reach me: Email - shubhamrajrah@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a comp sci student and an artist. 
