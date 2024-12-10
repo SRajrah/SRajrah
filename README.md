@@ -1,8 +1,7 @@
 ### Hi there , I am Shubham Rajrah👋
 -----------------------------------------------------------
 
-I am passionate about designing and developing tech solutions. I am equally passionate about creative arts.
-If only there was an intersection !
+Fueled by curiosity and guided by empathy, I am an engineer at heart who finds joy in building products and solving problems with innovative solutions!
 
 Check this out for reading more about me - https://shubhamrajrah.com
 
@@ -11,11 +10,12 @@ Check this out for reading more about me - https://shubhamrajrah.com
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as a MS CS graduate student at USC viterbi. 
-- 🌱 I’m currently learning analysis of algoriths, AI and ML topics.
-- 👯 I’m looking to collaborate on deep learning and data science projects.
-- 🤔 I’m looking for help with Research Assistant positions in AI and ML.
-- 💬 Ask me about USC, Optum and studying comp sci abroad.
+- 🔭 I'm working as an MS CS graduate student at USC Viterbi. 
+- 🌱 I'm proficient in full-stack development and AI-based applications.
+- ⚡  My Coursework at USC: Analysis of Algorithms, Database Systems, Machine Learning, Computer Graphics, Applied NLP,
+     Information Retrieval & Web Search Engines, Game Development
+- 👯 I'm graduating in December 2024 and looking for full-time roles as a Software Development Engineer.
+- 💬 Ask me about USC, Airy, Optum and studying comp sci abroad.
 - 📫 How to reach me: Email - shubhamrajrah@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a comp sci student and an artist. 
