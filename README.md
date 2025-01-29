@@ -10,13 +10,13 @@ Check this out for reading more about me - https://shubhamrajrah.com
 
 Here are some ideas to get you started: -->
 
-- 🔭 I'm working as an MS CS graduate student at USC Viterbi. 
+- 🔭 USC Graduate. I'm working as a Lead Researcher and Advisor Engineer at Easley Dunn Productions, Inc. 
 - 🌱 I'm proficient in full-stack development and AI-based applications.
 - ⚡  My Coursework at USC: Analysis of Algorithms, Database Systems, Machine Learning, Computer Graphics, Applied NLP,
      Information Retrieval & Web Search Engines, Game Development
-- 👯 I'm graduating in December 2024 and looking for full-time roles as a Software Development Engineer.
+- 👯 Graduated from USC in December 2024 with MS CS Degree and looking for full-time Software + AIML Roles.
 - 💬 Ask me about USC, Airy, Optum and studying comp sci abroad.
-- 📫 How to reach me: Email - shubhamrajrah@gmail.com
+- 📫 How to reach me: Email - shubhamrajrah@gmail.com Website - https://shubhamrajrah.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a comp sci student and an artist. 
 
